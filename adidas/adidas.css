@@ -1,0 +1,104 @@
+body{
+    margin: 0px;
+}
+.one{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    background-color: black;
+}
+h5{
+    margin: 10px;
+}
+.oneone{
+    display: flex;
+    justify-content:space-around;
+    padding-left: 900px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding-top: 10px;
+    padding-right: 5px;
+}
+.two
+{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.two1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+.two1 h4{
+    margin: 10px;
+    /* margin-top: 0px; */
+}
+.two1 a{
+    margin: 10px;
+    /* margin-top: 0px; */
+}
+.two2{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+.two2 h2{
+    margin: 10px;
+}
+/* .two img{
+    padding-top: 20px;
+} */
+input{
+    margin-top: 10px;
+    height: 20px;
+    background-color: rgb(195, 190, 190);
+}
+.three{
+    background-image: url(https://brand.assets.adidas.com/image/upload/f_auto,q_auto,fl_lossy/if_w_gt_1920,w_1920/enIN/Images/HPMH_tcm209-977590.png);
+    height: 100vh;
+    background-size: cover;
+    margin-bottom: 0px;
+    padding-top: 3px;
+    color: white;
+}
+button{
+    height: 40px;
+    color: black;
+    background-color: white;
+    margin-left: 90px;
+    /* text-decoration-style: solid; */
+}
+.three h1{
+    padding-left: 90px;
+    padding-top: 200px;
+}
+.four{
+    background-image: url(https://brand.assets.adidas.com/image/upload/f_auto,q_auto,fl_lossy/if_w_gt_1920,w_1920/enIN/Images/2880x1280b_tcm209-977595.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 0px;
+    color: white;
+}
+.four h1{
+    padding-left: 90px;
+    padding-top: 200px;
+}
+.four h4{
+    padding-left: 90px;
+}
+.five button{
+    margin: 5px;
+    border-color: rgb(40, 40, 40);
+    height: 25px;
+    /* background-color: rgb(141, 141, 141); */
+}
+/* #fi:hover{
+    border-color: black;
+} */
+#red{
+    color: red;
+}
